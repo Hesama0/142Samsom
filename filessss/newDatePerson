@@ -1,0 +1,23 @@
+#include <iostream>
+#include <iostream>
+using namespace std;
+
+class Date {
+    private:
+        int Date;
+        int month;
+        int year;
+};
+
+class Person {
+    private:
+        string name;
+        Date Birthday;
+    
+};
+
+int main () {
+
+
+    return 0;
+}
